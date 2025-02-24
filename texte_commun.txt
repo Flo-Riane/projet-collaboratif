@@ -1,1 +1,13 @@
+IV. Bien-être social, individuek et environnemental : une approche holistique.
 
+L'un des objectifs fondamentaux des systèmes d'IA éthiques est de promouvoir le bien-être à plusieurs niveaux : individuel, social et environnemental.
+Sur le plan individuek, l'ia doit permettre aux utilisateurs de mener une vie épanouissante et autonome, grâce à des outils qui enrichissent leur quotidien.
+Sur le plan social, ces technologies doivent favoriser la cohésion au sein des communautés, améliorer les services publics comme la santé ou l'éducation, et
+minimiser les conflits. Enfin, sur le plan environnemental, il est primordial que les systèmes d'IA soient conçus de manière à réduire leur empreinte
+écologique tout en contribuant à la durabilité planétaire.
+
+Pour atteindre ces objectifs, une évaluation rigoureuse des impacts de l'IA est nécessaire avant et pendant son déploiement. Cela implique de prendre en compte
+de prendre en compte non seulement les utilisateurs directs des systèmes, mais aussi les parties prenantes indirectes, y compris les communautés locales
+et l'écosystème global. Par exemple, les systèmes d'Ia à haut risque doivent faire l'objet d'une surveillance continue pour identifier les problèmes
+potentiels et ajuster leur fonctionnement en conséquence. De même l'innovation responsable doit être encouragée, en alignant les développements technologiques
+sur les objectifs de bien-être global.
