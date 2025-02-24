@@ -1,5 +1,0 @@
-III. Éthique dès la conception : un impératif pour les développeurs.
-
-Au-delà des interdictions, le RIA insiste sur l’éthique dès la conception des systèmes d’IA. Cette approche proactive vise à anticiper et à réduire les risques dès les premières étapes du développement. Elle repose sur plusieurs axes, notamment la transparence, la sécurité et la gouvernance des données. Les systèmes doivent être conçus pour minimiser les biais, protéger la confidentialité des utilisateurs et garantir un audit rigoureux tout au long de leur cycle de vie.
-
-Dans la pratique, cette éthique dès la conception implique de surveiller chaque étape du développement, de la collecte des données à l’utilisation des algorithmes. Par exemple, les données d’entraînement doivent respecter les principes du Règlement général sur la protection des données (RGPD), évitant ainsi les violations des droits à la vie privée. De même, des modèles de gouvernance des données robustes doivent être mis en place pour prévenir les dérives potentielles, tout en établissant des mécanismes de traçabilité et de responsabilisation.
